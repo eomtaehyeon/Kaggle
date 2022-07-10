@@ -9,7 +9,7 @@
 
 
     작업 툴 : Kaggle, VS Code, Google Colab, R Studio, Notion, Powerpoint, Google Cloud, MySQL 등
-    사용한 코딩 언어 : Python, R, JAVA
+    사용한 코딩 언어 : Python, R, JAVA, Jupyter Notebook
     인원 : 5명
     기간 : 2022.03.10. ~ 2022.08.30.
     내용 : 
